@@ -1,0 +1,16 @@
+This project deals with price prediction.
+The first problem is thus:
+"You will implement linear regression with one variable to predict proﬁts for a food truck.
+Suppose you are the CEO of a restaurant franchise and are considering diﬀerent cities for opening a new outlet.
+The chain already has trucks in various cities and you have data for proﬁts and populations from the cities.
+You would like to use this data to help you select which city to expand to next."
+I used linear regression with one variable to achieve the predictions for 35,000 and 70,000 populations.
+
+The second problem is thus:
+ "You will implement linear regression with multiple variables to predict the prices of houses.
+ Suppose you are selling your house and you want to know what a good market price would be."
+ The dataset for the house sizes, number of bedrooms and the house prices were given.
+ I used feature normalisation for the sizes and bedrooms and predicted the price of a 1650 square feet house with 3 bedrooms.
+ 
+ This is an assignment/project I completed from my machine learning course, Stanford University, Coursera.
+ The PDF should guide your understanding
