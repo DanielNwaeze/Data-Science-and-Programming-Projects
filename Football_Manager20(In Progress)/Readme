@@ -1,0 +1,16 @@
+The project is still a work in progress.
+It is uploaded to give an idea of what I want to achieve.
+It is a football manager 5-a-side game which I selected the players from the top football players in the world as of 2019.
+I used user defined structs for forwards, midfielders, defenders and goalkeepers.
+These structs stored the details, ages and ratings according to their positions.
+For example, a forward would have a relevant rating on shooting and dribbling.
+Defenders are expected to have relevant ratings in interception and tackling ability.
+You get to select which player you want from the list to make the 5-a-side team.
+You then play against your choice out of a possible 5 opposition teams which were selected from the same list of players.
+Your players' abilities and ratings will be used to judge the outcome of the match.
+The match details/commentary will also be provided where you get to see what really happened in the outcome of the match.
+I am working on the match commentary details right now.
+I have used several functions to represent the extraction of players' details as well as the opposition.
+The names, ages and abilities of players were searched up for accurate player details.
+
+I will update to know when I am done
