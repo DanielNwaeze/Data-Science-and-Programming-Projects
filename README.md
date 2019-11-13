@@ -1,5 +1,6 @@
 # My-C-Projects
-Folder for some of my personal works using C++ programming
+Folder for some of my personal works using C++ programming and machine learning
+
 Projects include
 
 * Time Management App(C++)
