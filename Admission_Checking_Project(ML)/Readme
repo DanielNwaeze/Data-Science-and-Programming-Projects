@@ -1,0 +1,9 @@
+In this project, I implemented a machine learning algorithm for determining an applicant's probability of admission
+The applicant wrote two examinations and applied to a university
+Given the data of the previous year's admitted applicants' grades in these examinations, I evaluated the applicants' chances of admission
+This was done with logistic regression.
+
+In the second part of the project, I had the data of microchips passed through two tests and evaluated if they are accepted or not
+I used logistic regression to determine if a given chip with given test details will be accepted.
+
+The assignment/project was completed from my Andrew NG machine learnning course, Stanford University Coursera.
