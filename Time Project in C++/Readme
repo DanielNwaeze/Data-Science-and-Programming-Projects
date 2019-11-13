@@ -1,0 +1,9 @@
+The time measurement code simply evaluates the period between two given ‘start’ and ‘end’ times.
+I utilized user defined struct TIME to store the hour, minute and second components of each time.
+T1 represents the initial time
+T2 represents the final time
+Diff represents the difference in time/ time interval
+I used:
+void Difference (TIME t1, TIME t2, TIME *difference);
+to compute the time interval and register its value to Diff
+A do-while loop was used for the user to repeat the program for different times
