@@ -1,0 +1,16 @@
+The base converter project helps you convert different numbers in different bases to other bases
+The following are the base conversions offered
+1- Binary number to Decimal
+2- Decimal number to Binary
+3- Binary number to Octal
+4- Octal number to Binary
+5- Decimal number to Octal
+6- Octal number to Decimal
+
+It makes use of six different functions for the respective operations mentioned.
+
+It offers a do while loop to repeat the program in case of multiple conversions.
+
+The codes may be a bit technical or confusing but try following each step.
+NOTE: The modulo operations simply help with the remainders needed for conversion.
+That makes it very understandable.
