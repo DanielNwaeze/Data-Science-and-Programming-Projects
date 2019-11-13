@@ -1,0 +1,3 @@
+This project uses machine learning to recognize different numbers from the pictures given, irrespective of font or style.
+It utilizes the concept of neural networks to work.
+This was an assignment I completed from the Andrew NG Machine Learning course, Stanford University at Coursera.
