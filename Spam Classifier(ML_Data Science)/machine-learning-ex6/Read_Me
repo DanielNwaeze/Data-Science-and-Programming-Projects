@@ -4,3 +4,5 @@ I used filtering to filter out the recipients' address, common spam traps like n
 This extracts the actual meaning of the e-mail
 A sample spam/non-spam trains the algorithm
 Algorithm is then for a completely new e-mail to classify it as either spam or non-spam
+
+©Stanford University
