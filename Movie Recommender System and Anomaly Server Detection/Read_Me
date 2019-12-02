@@ -1,0 +1,4 @@
+Implemented collaborative filtering to recommend best matching movie suggestions to a user
+Used web scrapped datasets of previous movie ratings made by other users
+Trained the model from the dataset using collaborative filtering
+Allowed the user to rate some of his best movies and recommended movies for the user from some of the dataset.
