@@ -1,0 +1,6 @@
+This machine learning program accepts an e-mail message which may be spam or non-spam
+It uses Support Vector Machines(SVMs) and learns from a dictionary of possible spam words
+I used filtering to filter out the recipients' address, common spam traps like numbers, symbols etc
+This extracts the actual meaning of the e-mail
+A sample spam/non-spam trains the algorithm
+Algorithm is then for a completely new e-mail to classify it as either spam or non-spam
