@@ -1,0 +1,44 @@
+	
+
+
+What is the brutal truth about data scientists?
+
+
+ 
+
+Håkon Hapnes Strand, Data Scientist
+
+Written May 16
+
+
+
+
+Many of us got into data science because we fell in love with machine learning and wanted to explore the inner workings of algorithms and be creative with sophisticated math.
+...
+ Read More »
+
+
+
+		
+
+	
+
+
+How was your phone interview at Facebook?
+
+
+ 
+
+Henry Loh, Software Engineer at Facebook (2016-present)
+
+Written Jun 5
+
+
+
+
+My phone interview experience with Facebook was quite similar to that of Amazon and Google.
+It was a 45 mins round, interviewer was right on time, it was a skype video call ...
+ Read More »
+
+
+
